@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1730237620 source:c:\users\giova\onedrive\documentos\linguagem c c++\banco_simples_04\banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1730237620 c:\users\giova\onedrive\documentos\linguagem c c++\banco_simples_04\banco\produto.h
+	"registro.h"
+
+1730237866 source:c:\users\giova\onedrive\documentos\linguagem c c++\banco_simples_04\banco\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+
+1730216681 c:\users\giova\onedrive\documentos\linguagem c c++\banco_simples_04\banco\registro.h
+
+1730224570 source:c:\users\giova\onedrive\documentos\linguagem c c++\banco_simples_04\banco\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"registro.h"
+
+1730237580 source:c:\users\aluno\documents\aula\aula01\aula\banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1730237580 c:\users\aluno\documents\aula\aula01\aula\banco\produto.h
+	"registro.h"
+
+1730216640 c:\users\aluno\documents\aula\aula01\aula\banco\registro.h
+
+1730237820 source:c:\users\aluno\documents\aula\aula01\aula\banco\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+
+1730224560 source:c:\users\aluno\documents\aula\aula01\aula\banco\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"registro.h"
+
